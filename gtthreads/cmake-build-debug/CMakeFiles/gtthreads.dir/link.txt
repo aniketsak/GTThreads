@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/gtthreads.dir/src/gt_kthread.c.o CMakeFiles/gtthreads.dir/src/gt_matrix.c.o CMakeFiles/gtthreads.dir/src/gt_pq.c.o CMakeFiles/gtthreads.dir/src/gt_signal.c.o CMakeFiles/gtthreads.dir/src/gt_spinlock.c.o CMakeFiles/gtthreads.dir/src/gt_uthread.c.o  -o gtthreads 
